@@ -1,5 +1,5 @@
 {
-  "name": "kalp-fabric-js-sdk",
+  "name": "kalp-sdk-node",
   "version": "2.5.5",
   "tag": "latest",
   "description": "A node.js implementation of Hyperledger Fabric chaincode shim, to allow endorsing peers and user-provided chaincodes to communicate with each other",
